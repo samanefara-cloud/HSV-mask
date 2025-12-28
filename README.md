@@ -1,4 +1,4 @@
-## Day X – HSV color masks & multi-color contours
+## Day 40– HSV color masks & multi-color contours
 
 In this session I moved from grayscale contour detection to **color-based segmentation** using the HSV color space.
 
